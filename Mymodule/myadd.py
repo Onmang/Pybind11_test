@@ -7,5 +7,5 @@ Created on Fri Jul 21 21:49:19 2023
 import sys
 sys.path.append("C:/Users/konfi/Desktop/Mymodule/x64/Debug")
 import Mymodule
-result = Mymodule.add(10, 3)
+result = Mymodule.tasu(10, 7)
 print(result)   

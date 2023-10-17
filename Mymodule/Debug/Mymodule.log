@@ -1,0 +1,2 @@
+﻿  myadd.cpp
+C:\Users\konfi\Desktop\Mymodule\Mymodule\myadd.cpp(1,10): fatal  error C1083: include ファイルを開けません。'pybind11/pybind11.h':No such file or directory

@@ -1,3 +1,5 @@
+//spyder開いているとビルドエラー
+
 #include <pybind11/pybind11.h>
 
 int add(int x, int y) {
@@ -5,5 +7,6 @@ int add(int x, int y) {
 }
 
 PYBIND11_MODULE(Mymodule, m) {
-    m.def("add", &add);
+    m.def("tasu", &add);
 }
+
